@@ -26,6 +26,7 @@
  * ```
  */
 declare module '$env/static/private' {
+	export const VERCEL_OIDC_TOKEN: string;
 	export const NVM_INC: string;
 	export const TERM_PROGRAM: string;
 	export const NODE: string;
@@ -131,6 +132,7 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
+		VERCEL_OIDC_TOKEN: string;
 		NVM_INC: string;
 		TERM_PROGRAM: string;
 		NODE: string;
