@@ -130,3 +130,98 @@ Stop burning tokens on setup. Stop fighting configuration. Focus 100% on your id
 
 - **Purchase:** https://antonija.lemonsqueezy.com/buy/2355a849-0f60-443c-a2a7-4d5a74bd4fe3
 - **Discord:** https://discord.gg/AthVzpdT
+
+---
+
+## 🔍 SEO Strategy & Implementation
+
+### Target Keywords (Primary)
+- AI coding starter kit
+- Cursor AI development
+- SvelteKit starter template
+- AI code foundation
+- Non-technical founder toolkit
+- Vibe coding
+
+### Target Keywords (Secondary)
+- AI development for designers
+- Quick launch starter kit
+- AI code quality improvement
+- Side project starter
+- No-code alternative
+- Professional AI coding
+
+### Meta Configuration
+
+**Title (60 chars max):**
+> The Vibe-Coding Starter Kit | AI Code Foundation
+
+**Description (155 chars max):**
+> Stop wasting time on setup. Your AI writes better code with our professional foundation. Start building today, ship real products. €49.99
+
+**Open Graph Image:**
+- Size: 1200x630px
+- Shows: Product value proposition with mascot
+- Alt text: "The Vibe-Coding Starter Kit - Professional AI code foundation"
+
+### Structured Data (Schema.org)
+
+Implemented JSON-LD structured data:
+1. **Product Schema:** Name, price, brand, offers, ratings
+2. **SoftwareApplication Schema:** Category, OS, description
+
+### Technical SEO Checklist
+
+✅ **Meta Tags:**
+- Title, description, keywords
+- Open Graph (Facebook)
+- Twitter Cards
+- Canonical URL
+
+✅ **Performance:**
+- Static pre-rendering (`prerender = true`)
+- Optimized font loading (preconnect)
+- Mobile-responsive viewport
+
+✅ **Indexing:**
+- Robots.txt (allow all, sitemap link)
+- XML sitemap (auto-generated, weekly updates)
+- Semantic HTML structure
+
+✅ **Accessibility:**
+- Alt text on all images
+- Semantic heading hierarchy
+- ARIA labels where needed
+
+### Content SEO Strategy
+
+**H1 (Hero):** "Your AI writes code. Not good code."
+- Targets: "AI writes code", "AI code quality"
+
+**Value Props:** Natural keyword integration
+- "Professional design included"
+- "AI writes organized code"
+- "Start building today"
+
+**Social Proof:** Discord community
+- "Join The Vibe-Code Academy"
+- Builds trust and engagement signals
+
+### Performance Targets
+
+- **First Contentful Paint:** < 1.5s
+- **Largest Contentful Paint:** < 2.5s
+- **Time to Interactive:** < 3.5s
+- **Cumulative Layout Shift:** < 0.1
+
+### Conversion Optimization
+
+**Primary CTA:** "Get The Vibe-Coding Starter" (€49.99)
+- Above fold (Hero section)
+- Below fold (Final CTA)
+- Clear value proposition before each CTA
+
+**Social Signals:**
+- Discord community link
+- "Join other vibe coders" messaging
+- Trust indicators throughout

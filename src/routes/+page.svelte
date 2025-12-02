@@ -7,7 +7,7 @@
 </script>
 
 <main class="min-h-screen bg-white">
-	<div class="max-w-[800px] mx-auto py-12 md:py-20 px-6 md:px-8">
+	<div class="max-w-[800px] mx-auto pt-12 md:pt-20 px-6 md:px-8">
 		<Hero />
 	</div>
 	<AlmostDone />

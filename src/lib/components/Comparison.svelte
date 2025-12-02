@@ -38,24 +38,22 @@
 			<!-- With column -->
 			<ComparisonCard>
 				<ComparisonListItem type="success">
-					Run <CodeInline>npm install</CodeInline> and start building
+					Start building today
 				</ComparisonListItem>
 				
 				<ComparisonListItem type="success">
-					Guardrails auto-format and clean AI output
+					AI writes organized code
 				</ComparisonListItem>
 				
 				<ComparisonListItem type="success">
-					11+ components in Storybook, designed by a designer
+					Looks professionally designed
 				</ComparisonListItem>
 				
 				<ComparisonListItem type="success">
-					Every token goes into features, not setup
+					Ship real products
 				</ComparisonListItem>
 				
-				<ComparisonListItem type="success">
-					Ship something that looks professionally designed
-				</ComparisonListItem>
+				<img src="/mascot_pointing.png" alt="Mascot pointing" class="absolute bottom-0 right-0 w-48 md:w-72 lg:w-80 h-auto object-contain object-bottom" />
 			</ComparisonCard>
 			</div>
 		</div>
