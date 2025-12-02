@@ -1,0 +1,14 @@
+# Code Stack
+- **Framework**: SvelteKit (Svelte 5)
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS v4
+- **Animation**: Motion (v11)
+- **Language**: TypeScript/JavaScript (ES modules)
+- **Adapter**: @sveltejs/adapter-auto
+
+# Rules
+- **FORBIDDEN**: Do NOT take screenshots. Focus on executing tasks and stopping.
+- Execute tasks efficiently and stop when complete.
+- Focus on code implementation, not visual verification through screenshots.
+- When a task is done, stop - don't continue with unnecessary actions.
+
