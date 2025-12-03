@@ -82,7 +82,7 @@ body {
 	letter-spacing: -0.02em;
 	line-height: 1;
 	color: #171717;
-	font-size: 2rem;       /* 32px - mobile */
+	font-size: 3rem;       /* 32px - mobile */
 }
 
 @media (min-width: 640px) {

@@ -29,8 +29,8 @@
 			</div>
 
 			<!-- Image Column -->
-			<div class="flex justify-end overflow-visible relative z-0">
-				<img src="/mascots_dancing.png" alt="Dancing mascots" class="w-auto h-auto scale-110 md:scale-125 lg:scale-150 relative z-0 translate-x-4 md:translate-x-8 lg:translate-x-12" />
+			<div class="flex justify-center md:justify-end overflow-visible relative z-0">
+				<img src="/mascots_dancing.png" alt="Dancing mascots" class="w-auto h-auto scale-110 md:scale-125 lg:scale-150 relative z-0 md:translate-x-8 lg:translate-x-12" />
 			</div>
 		</div>
 	</div>

@@ -36,7 +36,7 @@
 			</ComparisonCard>
 
 			<!-- With column -->
-			<ComparisonCard>
+			<ComparisonCard hasMascot={true}>
 				<ComparisonListItem type="success">
 					Start building today
 				</ComparisonListItem>
